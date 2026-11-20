@@ -28,7 +28,7 @@ I'm still a beginner, but every project teaches me something new, and this repo 
 
 ## **MIDTERM PROJECTS 🗂️**
 
-### [Laboratory Task 1: 2D Array](link-to-your-folder)
+### [Laboratory Task 1: 2D Array]https://github.com/Learning-Luci/Learning-Luci.github.io/tree/1e35457a15c450e425a5d01e8b15f64ba45d6e8c/Midterms/Labtask%2001
 A program that stores values in a 2D array, then uses loops to calculate the sum of each row, each column, and the diagonal. It uses a do-while loop so the user can run it again or exit.
 
 **Concepts used:** 2D arrays, nested for-loops, `Scanner`, do-while
