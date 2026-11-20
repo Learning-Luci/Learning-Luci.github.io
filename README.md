@@ -33,7 +33,7 @@ A program that stores values in a 2D array, then uses loops to calculate the sum
 
 **Concepts used:** 2D arrays, nested for-loops, `Scanner`, do-while
 
-### [Laboratory Task 2: 3D Array](link-to-your-folder)
+### [Laboratory Task 2: 3D Array](https://github.com/Learning-Luci/Learning-Luci.github.io/tree/aeeee91ff567c3a4a46107f8ef1d4765b93c53e2/Midterms/Labtask%2002)
 A grade calculator that uses a 3D array of sections, students, and grades for three subjects (Java, Database, and Networking). It prints each student's average and each section's average.
 
 **Concepts used:** 3D arrays, 1D arrays, nested for-loops, float calculations
@@ -41,25 +41,25 @@ A grade calculator that uses a 3D array of sections, students, and grades for th
 <br>
 
 ## **GOALS 🚀**
-- **Short term:** Get comfortable with Java and finish the semester strong
+- **Short term:** Get comfortable with Java and finish the semester without failing the course.
 - **Mid term:** Learn another language, such as [Python / C++ / JavaScript]
-- **Long term:** Become a [cybersecurity specialist] 🔐
+- **Long term:** Become a [Have a job] 🖥️
 
 <br>
 
 ## **TOOLS & LANGUAGES 🛠️**
 - Java
 - HTML
-- [IDE you use, e.g. NetBeans / IntelliJ / VS Code]
+- VS Code
 - Git & GitHub
 
 <br>
 
 ## **FUN FACT 🎲**
-[Something short and personal, like your favorite game or what got you into IT]
+I like to play chill games
 
 <br>
 
 ## **CONTACT 📬**
-- GitHub: [your username](https://github.com/your-username)
-- Email: [your email]
+- GitHub: [Learning-Luci](https://github.com/Learning-Luci)
+- Email: [yohannespino0901@gmail.com]
